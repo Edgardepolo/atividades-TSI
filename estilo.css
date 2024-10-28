@@ -44,7 +44,12 @@ body {
 
     background-color: var(--cor-coluna-direita);
 }
-
+.coluna-direita h2{
+    padding-top: 50px;
+}
+.coluna-direita h3{
+    padding-top: 50px;
+}
 .coluna-esquerda ul {
     list-style: none;
     padding: 0;
